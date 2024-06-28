@@ -31,14 +31,14 @@
         "string.template"
       ],
       "settings": {
-        "foreground": "#e5c07b"
+        "foreground": "#D875C7"
       }
     },
     {
       "name": "Number",
       "scope": "constant.numeric",
       "settings": {
-        "foreground": "#D8EFD3"
+        "foreground": "#C3E2C2"
       }
     },
     {
@@ -135,7 +135,7 @@
         "support.class"
       ],
       "settings": {
-        "foreground": "#61afef"
+        "foreground": "#FF5580"
       }
     },
     {
@@ -268,7 +268,7 @@
       "name": "Json Property",
       "scope": "support.dictionary.json",
       "settings": {
-        "foreground": "#56b6c2"
+        "foreground": "#FF5580"
       }
     },
     {
@@ -386,7 +386,7 @@
       "name": "JSON String",
       "scope": "support.type.property-name.json",
       "settings": {
-        "foreground": "#56b6c2"
+        "foreground": "#FF5580"
       }
     },
     {
