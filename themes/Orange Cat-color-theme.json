@@ -21,7 +21,7 @@
         "string.comment"
       ],
       "settings": {
-        "foreground": "#41B06E"
+        "foreground": "#91C483"
       }
     },
     {
@@ -31,7 +31,7 @@
         "string.template"
       ],
       "settings": {
-        "foreground": "#D875C7"
+        "foreground": "#E384FF"
       }
     },
     {
@@ -50,7 +50,7 @@
         "punctuation.section.embedded"
       ],
       "settings": {
-        "foreground": "#c678dd"
+        "foreground": "#E384FF"
       }
     },
     {
@@ -73,7 +73,7 @@
       "name": "Built-in constant",
       "scope": "constant.language",
       "settings": {
-        "foreground": "#56b6c2"
+        "foreground": "#A0DEFF"
       }
     },
     {
@@ -83,7 +83,7 @@
         "constant.other"
       ],
       "settings": {
-        "foreground": "#56b6c2"
+        "foreground": "#A0DEFF"
       }
     },
     {
@@ -101,7 +101,7 @@
         "keyword.operator.constructor"
       ],
       "settings": {
-        "foreground": "#e06c75"
+        "foreground": "#FF9E74"
       }
     },
     {
@@ -122,7 +122,7 @@
       "name": "Types",
       "scope": "storage.type",
       "settings": {
-        "foreground": "#56b6c2"
+        "foreground": "#A0DEFF"
       }
     },
     {
@@ -151,7 +151,7 @@
         "variable.readwrite.other.block"
       ],
       "settings": {
-        "foreground": "#61afef"
+        "foreground": "#00FAAC"
       }
     },
     {
@@ -189,7 +189,7 @@
         "support.function"
       ],
       "settings": {
-        "foreground": "#98c379"
+        "foreground": "#F1E7B6"
       }
     },
     {
@@ -200,14 +200,14 @@
         "parameter.variable"
       ],
       "settings": {
-        "foreground": "#d19a66"
+        "foreground": "#B4FE98"
       }
     },
     {
       "name": "Function call",
       "scope": "entity.name.function-call",
       "settings": {
-        "foreground": "#FFCBCB"
+        "foreground": "#77D970"
       }
     },
     {
@@ -237,7 +237,7 @@
         "entity.name.tag.id"
       ],
       "settings": {
-        "foreground": "#56b6c2"
+        "foreground": "#A0DEFF"
       }
     },
     {
@@ -251,7 +251,7 @@
       "name": "Library constant",
       "scope": "support.constant",
       "settings": {
-        "foreground": "#56b6c2"
+        "foreground": "#A0DEFF"
       }
     },
     {
@@ -261,14 +261,14 @@
         "support.variable"
       ],
       "settings": {
-        "foreground": "#56b6c2"
+        "foreground": "#A0DEFF"
       }
     },
     {
       "name": "Json Property",
       "scope": "support.dictionary.json",
       "settings": {
-        "foreground": "#FF5580"
+        "foreground": "#F1E7B6"
       }
     },
     {
@@ -296,7 +296,7 @@
         "entity.other.attribute-name.pseudo-element.sass"
       ],
       "settings": {
-        "foreground": "#56b6c2"
+        "foreground": "#A0DEFF"
       }
     },
     {
@@ -320,7 +320,7 @@
         "variable.sass"
       ],
       "settings": {
-        "foreground": "#56b6c2"
+        "foreground": "#A0DEFF"
       }
     },
     {
@@ -344,7 +344,7 @@
         "unit.sass"
       ],
       "settings": {
-        "foreground": "#c678dd"
+        "foreground": "#E384FF"
       }
     },
     {
@@ -356,7 +356,7 @@
         "function.sass"
       ],
       "settings": {
-        "foreground": "#56b6c2"
+        "foreground": "#A0DEFF"
       }
     },
     {
@@ -370,7 +370,7 @@
       "name": "Invalid",
       "scope": "invalid",
       "settings": {
-        // "background": "#c678dd",
+        "background": "#E384FF",
         "foreground": "#B6FFCE"
       }
     },
@@ -378,7 +378,7 @@
       "name": "Invalid deprecated",
       "scope": "invalid.deprecated",
       "settings": {
-        // "background": "#56b6c2",
+        "background": "#A0DEFF",
         "foreground": "#B6FFCE"
       }
     },
@@ -386,7 +386,7 @@
       "name": "JSON String",
       "scope": "support.type.property-name.json",
       "settings": {
-        "foreground": "#FF5580"
+        "foreground": "#F1E7B6"
       }
     },
     {
@@ -497,7 +497,7 @@
       "name": "Markup: Separator",
       "scope": "meta.separator.markdown",
       "settings": {
-        "foreground": "#c678dd",
+        "foreground": "#E384FF",
         "fontStyle": "bold"
       }
     },
@@ -508,7 +508,7 @@
         "markup.raw.block.markdown"
       ],
       "settings": {
-        "foreground": "#56b6c2"
+        "foreground": "#A0DEFF"
       }
     },
     {
