@@ -18,4 +18,4 @@ code --install-extension orange-cat-0.0.1.vsix
 * For Windows: C:\Qt\Tools\QtCreator\share\qtcreator\styles
 * Same For Linux Find styles in Qt Directory !
   
-** Thank You **
+**Thank You**
