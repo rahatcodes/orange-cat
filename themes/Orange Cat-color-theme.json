@@ -4,7 +4,7 @@
   "semanticHighlighting": true,
   "semanticTokenColors": {
     "enumMember": {
-      "foreground": "#7dcfff"
+      "foreground": "#FFCAC8"
     },
     "variable.constant": {
       "foreground": "#e08f68"
@@ -31,7 +31,7 @@
         "string.template"
       ],
       "settings": {
-        "foreground": "#E384FF"
+        "foreground": "#FF9090"
       }
     },
     {
@@ -108,7 +108,7 @@
       "name": "Keyword Operator",
       "scope": "keyword.operator",
       "settings": {
-        "foreground": "#e06c75"
+        "foreground": "#FFE9D0"
       }
     },
     {
