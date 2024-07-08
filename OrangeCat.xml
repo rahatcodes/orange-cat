@@ -16,7 +16,7 @@
 	<style name="String" foreground="#FF9090"/>
 	<style name="Type" foreground="#A0DEFF"/>
 	<style name="PrimitiveType" foreground="#A0DEFF"/>
-	<style name="Local" foreground="#00FAAC"/>
+	<style name="Local" foreground="#BEFFF7"/>
 	<style name="Parameter" foreground="#B4FE98"/>
 	<style name="ParenthesesMismatch" background="#33FFCBCB"/>
 	<style name="AutoComplete" foreground="#FFFFFF" background="#33B1AFFF"/>
