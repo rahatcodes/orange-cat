@@ -1,6 +1,3 @@
-# Orange Cat Theme  
-<img src="https://github.com/mahtabulshouravv/orange-cat/blob/main/images/IMG.PNG" alt="image">
-
 # For Visual Studio Code
 <img src="https://github.com/mahtabulshouravv/orange-cat/blob/main/images/orangecat_vscode.PNG" alt="image">
 
