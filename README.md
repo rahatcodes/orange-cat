@@ -58,7 +58,7 @@ Themes
             "tabRow": 
             {
                 "background": "#1f1f1f",
-                "unfocusedBackground": "#656566"
+                "unfocusedBackground": "#303030"
             },
             "window": 
             {
